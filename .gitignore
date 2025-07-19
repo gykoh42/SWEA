@@ -1,5 +1,51 @@
-a.out
-.vscode
-.DS_Store
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Java IDEs
+/.classpath
+/.project
+/.settings/
+/target/
+/bin/
+/out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Maven
+/logs/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# C++
+*.out
 *.o
-*.dSYM
+*.obj
+*.exe
+*.gch
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Test output
+*.log
